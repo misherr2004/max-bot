@@ -1,0 +1,4 @@
+kontroler.db
+uploads/
+*.exe
+.env
